@@ -127,13 +127,6 @@ let cards = [
         content: "O foco era conectar os últimos 3 projetos num só, onde apenas um site mostraria as calculadoras e a IDE de WEB. Usamos como intermediario o iFrame para que consiga chamar os diferentes projetos."
     },
     {
-        subject: "WEB",
-        title: "Atividade 11",
-        image: "./Imagens Materias/Desenvolvimento WEB/Ativ11.png",
-        contentTitle1: "Portfólio",
-        content: "Último projeto tem por envolver um portfólio usando como conteúdo todas as atividades produzidas em sala de aula."
-    },
-    {
         subject: "BAD",
         title: "Atividade 01",
         image: "./Imagens Materias/Banco de Dados/Ativ01.png",
